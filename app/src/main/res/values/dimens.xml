@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="thumbnail_size">100dp</dimen>
+    <dimen name="thumbnail_horizontal_margin">10dp</dimen>
+    <dimen name="thumbnail_vertical_margin">5dp</dimen>
+    <dimen name="progress_margin">20dp</dimen>
+</resources>
